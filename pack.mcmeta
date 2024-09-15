@@ -1,10 +1,10 @@
 {
   "pack": {
-    "description": "Better Low Fire - by gitq",
+    "description": "Better Low Fire resources.",
     "pack_format": 15,
     "supported_formats": {
         "min_inclusive": 15, 
-        "max_inclusive": 34
+        "max_inclusive": 38
     }
   }
 }
